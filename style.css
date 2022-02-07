@@ -30,6 +30,7 @@ section.alternate-background {
   color: #fff;
   display: flex;
   flex-direction: column;
+  width: 100%;
 }
 
 
@@ -60,6 +61,7 @@ header {
   background-color: #ff385c;
   padding: 20px 20px 0 20px;
   text-align: center;
+  width: 100%;
 }
 
 header h1 {
@@ -73,6 +75,7 @@ header nav {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 
 .logo {
@@ -106,6 +109,7 @@ header nav ul li a:hover {
 form {
   border: 2px solid #ff385c;
   padding: 10px;
+  width: 100%;
 }
 
 form label {
@@ -215,4 +219,3 @@ footer p {
     justify-content: center;
   }
 }
-
